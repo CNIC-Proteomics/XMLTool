@@ -1,0 +1,25 @@
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\bin\Debug\testXMLwithSchema.exe
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\bin\Debug\testXMLwithSchema.pdb
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\testXMLwithSchema.Form1.resources
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\testXMLwithSchema.Properties.Resources.resources
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\testXMLwithSchema.csproj.GenerateResource.Cache
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\testXMLwithSchema.exe
+C:\Users\mesontau\AppData\Local\Temporary Projects\testXMLwithSchema\obj\Debug\testXMLwithSchema.pdb
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.exe
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.pdb
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\bin\Debug\testXMLwithSchema.exe
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\bin\Debug\testXMLwithSchema.pdb
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\ResolveAssemblyReference.cache
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.Form1.resources
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.Properties.Resources.resources
+E:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.csproj.GenerateResource.Cache
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.exe
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.pdb
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\bin\Debug\testXMLwithSchema.exe
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\bin\Debug\testXMLwithSchema.pdb
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.Properties.Resources.resources
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.csproj.GenerateResource.Cache
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.replaceForm.resources
+I:\wrk\c#_smallExamples\testXMLwithSchema\testXMLwithSchema\obj\Debug\testXMLwithSchema.mainForm.resources
